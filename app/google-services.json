@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160139370410",
+    "project_id": "landmarksapp-aac52",
+    "storage_bucket": "landmarksapp-aac52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160139370410:android:56b060473a601662fed5d3",
+        "android_client_info": {
+          "package_name": "com.example.landmarksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160139370410-cn85v4huktjtami5ubqh2ppdup549a50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDViUPaTrfO9igRGvggHJ9ajJIORDEqsTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160139370410-cn85v4huktjtami5ubqh2ppdup549a50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
